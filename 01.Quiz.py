@@ -29,7 +29,7 @@ else:
     print("Incorrect!")
 
 answer = input("What does PSU stand for? ").lower()
-if answer == "power supply":
+if answer == "power supply unit":
     print("Correct!")
     score += 1
 else:
